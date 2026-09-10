@@ -6,3 +6,8 @@ INSTRUCTION:
 
 This web application works better on Chrome.
 
+UPDATES:
+ * Sept 8, 2026
+    Added the React framework to the code.
+ * Sept 10, 2026
+    Fix the error with the button that output passwords.
